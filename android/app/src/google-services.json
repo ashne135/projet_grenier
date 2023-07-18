@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "141604177251",
+    "project_id": "projetgrenier-2ac38",
+    "storage_bucket": "projetgrenier-2ac38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141604177251:android:024810580ce7cf36ae3f56",
+        "android_client_info": {
+          "package_name": "com.example.projet_grenier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141604177251-ht2quluse0jia5stej77cgj558m67s4t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projet_grenier",
+            "certificate_hash": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+          }
+        },
+        {
+          "client_id": "141604177251-83n95onsvk148o0jrgfd8dbn951v1juv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqqIL2KXE-P2iWg75r9XCj03XdGoxJ0F0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141604177251-83n95onsvk148o0jrgfd8dbn951v1juv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
